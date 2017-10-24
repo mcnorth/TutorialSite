@@ -89,9 +89,11 @@
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\style.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="img\computer-img.jpg" />
     <Content Include="index.aspx" />
     <Content Include="js\bootstrap.js" />
     <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\JavaScript.js" />
     <Content Include="js\jquery-3.2.1.min.js" />
     <Content Include="js\npm.js" />
     <Content Include="Web.config" />
