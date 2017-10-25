@@ -32,6 +32,14 @@
                 <button type="button" class="btn" id="openButton">
                     <span class="glyphicon glyphicon-menu-hamburger"></span>
                 </button>
+
+                <h4 class="topSectionHeadingFour">Bachelor of Information Technology majoring in Programming</h4>
+                <h1 id="topSectionHeadingOne">STUFF I DIDN’T LEARN AT UNI <br /> AND NEED IN THE REAL WORLD</h1>
+                <p class="topSectionPara">I did learn alot at university but there are some things <br /> that they did not teach that I found out later I will need <br /> for landing a job. There were also things that went <br /> completely over my head and I had to dig deep into <br /> google to find them. Here are a few of those things.</p>
+            </div>
+
+            <div id="pointers">
+
             </div>
   
         </div>
